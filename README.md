@@ -132,5 +132,3 @@ This project was developed as a **portfolio project for Industrial / Production 
 
 * Real-time data integration
 * Advanced SPC rules
-* Machine learning for anomaly prediction
-* Deployment (Streamlit Cloud)
